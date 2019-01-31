@@ -2,6 +2,12 @@
 title: Home
 ---
 
+---
+
+:rocket: **_Something Stupid <3_** @ https://gff.edening.net
+
+![GFF-Alpha](https://pbs.twimg.com/media/DyQC7I6UcAAN8Pt.jpg)
+
 <hr>
 
 > "The most unselfish is the most selfish."   
@@ -20,7 +26,7 @@ Who am I???
 - Pursuing Flexible Working via Technologies
 ```
 
-@HenryFMa
+@henryfma
 
 <div>
 	<video width="100%" autoplay loop muted  playsinline>
