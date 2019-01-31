@@ -2,9 +2,9 @@
 title: Home
 ---
 
----
+<hr>
 
-:rocket: **_Something Stupid <3_** @ https://gff.edening.net
+:rocket: **_Something Stupid <3_** @ [https://gff.edening.net](https://gff.edening.net)
 
 ![GFF-Alpha](https://pbs.twimg.com/media/DyQC7I6UcAAN8Pt.jpg)
 
