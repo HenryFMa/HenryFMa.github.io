@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 <hr>
 
 > "The most unselfish is the most selfish."   
