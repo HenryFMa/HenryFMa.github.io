@@ -20,8 +20,6 @@ Who am I???
 - Pursuing Flexible Working via Technologies
 ```
 
-{% avatar henryfma size=50 %}
-
 @HenryFMa
 
 <div>
